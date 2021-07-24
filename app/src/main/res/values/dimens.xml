@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--  guidleline for text size-->
+  <!--  https://learnui.design/blog/android-material-design-font-size-guidelines.html-->
+  <!--  https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html-->
+
+  <!--  all 20 sp-->
+  <dimen name="text_sz_page_title">20sp</dimen>
+  <!--  all 16 sp-->
+  <dimen name="text_sz_list_item_title">16sp</dimen>
+  <dimen name="text_sz_list_important_text">16sp</dimen>
+  <dimen name="text_sz_text_input">16sp</dimen>
+  <!--  all 14 sp-->
+  <dimen name="text_sz_paragraph">14sp</dimen>
+  <dimen name="text_sz_list_title">14sp</dimen>
+  <dimen name="text_sz_secondary_text">14sp</dimen>
+  <dimen name="text_sz_captions">14sp</dimen>
+  <dimen name="text_sz_buttons">14sp</dimen>
+  <dimen name="text_sz_tabs">14sp</dimen>
+  <!-- Default screen margins, per the Android Design guidelines. -->
+  <dimen name="activity_horizontal_margin">16dp</dimen>
+  <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>

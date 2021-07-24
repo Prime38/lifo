@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Lifo</string>
+  <string name="app_splashscreen_slogan">Live Your Life To The Fullest</string>
+  <string name="title_activity_everyday">MainActivity</string>
+  <string name="title_schedule">Today</string>
+  <string name="title_routine">Routine</string>
+  <string name="title_event">Events</string>
+</resources>
